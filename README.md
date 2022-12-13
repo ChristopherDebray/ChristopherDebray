@@ -3,26 +3,26 @@
 ------------------------------------------
 <div align="center">
 
-## Bonjour tout le monde !
+## Hello world !
 
-Je suis développeur web en formation à la web@cadémie by Epitech 👨🏼‍🎓<br/>
-En alternance depuis septembre 2021 au sein de l'entreprise Club Employés
+I am a web developer in training at ESGI 👨🏼‍🎓<br/>
+On a work-study program since September 2021 within the company Club Employés
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/christopher-debray"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:christopherdebray1@gmail.com?subject=Bonjour%20Christopher"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-J'ai une passion pour les nouvelles technologies et l'espace. 🌟
+I have a passion for new technologies and space. 🌟
 
-J'aime comprendre,<br>
-J'aime réussir<br>
-<i>Et surtout</i><br>
-<b>J'aime apprendre 📖 </b>
+I like to understand,<br>
+I like to succeed<br>
+<i>And above all</i><br>
+<b>I like to learn 📖 </b>
 
 ------------------------------------------
 
-Je touche à tout, même si j'ai principalement travaillé sur du php plus particulièrement en Symfony.
+I mainly work on php, more particularly in Symfony, but I am willing to learn ! Currently I am learning Vue js.
 
 ------------------------------------------
 
